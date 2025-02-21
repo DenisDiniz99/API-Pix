@@ -22,6 +22,14 @@ Minimal API
 
 C#
 
+EntityFramework Core
+
+AutoMapper
+
+FluentValidation
+
+SQL Server
+
 🔧 Como Executar
 
 Clone o repositório:
@@ -46,7 +54,7 @@ dotnet run
 
 Método: POST
 
-Rota: /pix/gerar
+Rota: /pix/
 
 Payload:
 
