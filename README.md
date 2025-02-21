@@ -26,7 +26,7 @@ C#
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DenisDiniz99/API-Pix.git
 
 Acesse o diretório do projeto:
 
